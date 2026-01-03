@@ -1,1 +1,1 @@
-JS school
+CPP study examples
